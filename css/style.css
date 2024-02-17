@@ -438,7 +438,7 @@ input[type=submit]:hover {
 }
 
 .div_placement li::before {
-	content: "A"counter(li);
+	content: "A" counter(li);
 	color: #00ffff;
 	margin-right: 0.3rem;
 }
